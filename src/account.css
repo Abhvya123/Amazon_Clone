@@ -1,0 +1,28 @@
+.account__info{
+    margin-left: 580px;
+}
+.image3{
+    width:100px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.info__1{
+    border-radius: 5px;
+   border-color: black;
+   
+}
+.log{
+    border-width: 3px;
+}
+.Register{
+    border-radius: 3px;
+    border-width: 3px;
+    color:black;
+    background-color: aliceblue;
+    border-color: black;
+    margin-bottom: 40px;
+}
+.account{
+    background-color: rgb(250, 244, 244);
+    width:100%;
+}

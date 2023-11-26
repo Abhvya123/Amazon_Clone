@@ -1,0 +1,54 @@
+.login{
+background-color: white;
+height:200
+
+
+
+}
+.login__image{
+    width:10%;
+    align-items: center;
+    margin-left: 620px;
+    margin-top: 50px;
+
+}
+.login__userid{
+    margin-left: 590px;
+    
+}
+.login__password{
+    margin-left:590px;
+}
+.login__button{
+    margin-left: 660px;
+  
+    background-color: rgb(212, 197, 131);
+   border-width: 3px;
+    
+}
+.image__logo2{
+    width:100%;
+
+}
+.text1{
+    border-width: 3px;
+}
+.password1{
+    border-width: 3px;
+}
+.login__account{
+    margin-left:650px;
+    margin-top: 8px;
+}
+
+.para{
+    margin-left: 500px;
+}
+.login__button2{
+    margin-left:650px;
+    margin-bottom: 50px;
+    margin-top: -20px;
+    border-width: 3px;
+    background-color: rgb(207, 223, 223);
+    
+}
